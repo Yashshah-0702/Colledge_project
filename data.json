@@ -1,0 +1,22 @@
+{
+    "members": [
+        {
+            "firstName": "Yash",
+            "lastName": "Shah",
+            "email": "yash722002@gmail.com",
+            "password": "12345678"
+        },
+        {
+            "firstName": "Ed",
+            "lastName": "Snide",
+            "email": "edward@bah.com",
+            "password": "800-597-9406"
+        },
+        {
+            "firstName": "Pattabhi",
+            "lastName": "Nunn",
+            "email": "pattabhi@bah.com",
+            "password": "800-597-9407"
+        }
+    ]
+}
